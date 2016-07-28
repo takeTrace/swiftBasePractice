@@ -1,8 +1,11 @@
 //: Playground - noun: a place where people can play
 
+
 import UIKit
 
 var str = "Hello, playground"
+
+print("奇怪, 怎么这个文件不能同步到 github 上, 应该说是同步到了, 但是在网页上没有看到")
 
 //*  常用数据类型(开头都大写): Int,Float,Double,Bool,Character,String,Array,Dictionary,元组类型Tuple,可选类型Optional
 
